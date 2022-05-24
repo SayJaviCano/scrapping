@@ -1,0 +1,16 @@
+{
+  "productos": [
+    {
+      "codigo": "0AR000",
+      "description": "La gama Jardín de la Naturaleza de los inciensos Auroshikha se presenta en paquetes de algodón hechos a mano decorados con flores naturales secas. "
+    },
+    {
+      "codigo": "100410",
+      "description": "Galleta de espelta integral con chocolate y trozos de avellanas"
+    },
+    {
+      "codigo": "100458",
+      "description": "Compresas Masmi Girls para día y noche y slips hechas de 100% algodón orgánico certificado. "
+    }
+  ]
+}
